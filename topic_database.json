@@ -1,0 +1,2385 @@
+{
+  "total": 340,
+  "topics": [
+    {
+      "id": 0,
+      "topic": "CIA Triad (Confidentiality, Integrity, Availability)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "CIA Triad (Confidentiality, Integrity, Availability).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/CIA Triad (Confidentiality, Integrity, Availability).png"
+    },
+    {
+      "id": 1,
+      "topic": "Authentication vs Authorization",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "Authentication vs Authorization.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/Authentication vs Authorization.png"
+    },
+    {
+      "id": 2,
+      "topic": "Security Models (Bell-LaPadula, Biba, Clark-Wilson)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "Security Models (Bell-LaPadula, Biba, Clark-Wilson).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/Security Models (Bell-LaPadula, Biba, Clark-Wilson).png"
+    },
+    {
+      "id": 3,
+      "topic": "Risk Assessment & Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "Risk Assessment & Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/Risk Assessment & Management.png"
+    },
+    {
+      "id": 4,
+      "topic": "Compliance Frameworks (NIST, ISO 27001, SOC 2)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "Compliance Frameworks (NIST, ISO 27001, SOC 2).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/Compliance Frameworks (NIST, ISO 27001, SOC 2).png"
+    },
+    {
+      "id": 5,
+      "topic": "Security Policies & Procedures",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics",
+      "sanitized_filename": "Security Policies & Procedures.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/1. Cybersecurity Basics/Security Policies & Procedures.png"
+    },
+    {
+      "id": 6,
+      "topic": "OSI Model (All 7 Layers in Detail)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "OSI Model (All 7 Layers in Detail).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/OSI Model (All 7 Layers in Detail).png"
+    },
+    {
+      "id": 7,
+      "topic": "TCP/IP Protocol Suite",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "TCP-IP Protocol Suite.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/TCP-IP Protocol Suite.png"
+    },
+    {
+      "id": 8,
+      "topic": "Subnetting & CIDR",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Subnetting & CIDR.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Subnetting & CIDR.png"
+    },
+    {
+      "id": 9,
+      "topic": "Routing Protocols (BGP, OSPF, RIP)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Routing Protocols (BGP, OSPF, RIP).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Routing Protocols (BGP, OSPF, RIP).png"
+    },
+    {
+      "id": 10,
+      "topic": "Switching & VLANs",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Switching & VLANs.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Switching & VLANs.png"
+    },
+    {
+      "id": 11,
+      "topic": "DNS, DHCP, ARP",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "DNS, DHCP, ARP.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/DNS, DHCP, ARP.png"
+    },
+    {
+      "id": 12,
+      "topic": "Firewalls (Stateful/Stateless, WAF, NGFW)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Firewalls (Stateful-Stateless, WAF, NGFW).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Firewalls (Stateful-Stateless, WAF, NGFW).png"
+    },
+    {
+      "id": 13,
+      "topic": "Load Balancers & Proxies",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Load Balancers & Proxies.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Load Balancers & Proxies.png"
+    },
+    {
+      "id": 14,
+      "topic": "VPN Technologies (IPSec, SSL, WireGuard)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "VPN Technologies (IPSec, SSL, WireGuard).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/VPN Technologies (IPSec, SSL, WireGuard).png"
+    },
+    {
+      "id": 15,
+      "topic": "Packet Analysis (Wireshark, tcpdump)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals",
+      "sanitized_filename": "Packet Analysis (Wireshark, tcpdump).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/2. Networking Fundamentals/Packet Analysis (Wireshark, tcpdump).png"
+    },
+    {
+      "id": 16,
+      "topic": "Linux File System Hierarchy",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "Linux File System Hierarchy.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/Linux File System Hierarchy.png"
+    },
+    {
+      "id": 17,
+      "topic": "Shell Scripting (Bash)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "Shell Scripting (Bash).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/Shell Scripting (Bash).png"
+    },
+    {
+      "id": 18,
+      "topic": "Process Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "Process Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/Process Management.png"
+    },
+    {
+      "id": 19,
+      "topic": "User & Permission Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "User & Permission Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/User & Permission Management.png"
+    },
+    {
+      "id": 20,
+      "topic": "System Services (systemd)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "System Services (systemd).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/System Services (systemd).png"
+    },
+    {
+      "id": 21,
+      "topic": "Package Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "Package Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/Package Management.png"
+    },
+    {
+      "id": 22,
+      "topic": "Kernel Basics",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux",
+      "sanitized_filename": "Kernel Basics.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Linux/Kernel Basics.png"
+    },
+    {
+      "id": 23,
+      "topic": "Windows Architecture (NT Kernel)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "Windows Architecture (NT Kernel).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/Windows Architecture (NT Kernel).png"
+    },
+    {
+      "id": 24,
+      "topic": "Registry",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "Registry.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/Registry.png"
+    },
+    {
+      "id": 25,
+      "topic": "Active Directory Basics",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "Active Directory Basics.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/Active Directory Basics.png"
+    },
+    {
+      "id": 26,
+      "topic": "PowerShell Scripting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "PowerShell Scripting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/PowerShell Scripting.png"
+    },
+    {
+      "id": 27,
+      "topic": "Windows Services & Processes",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "Windows Services & Processes.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/Windows Services & Processes.png"
+    },
+    {
+      "id": 28,
+      "topic": "WMI & WinRM",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "WMI & WinRM.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/WMI & WinRM.png"
+    },
+    {
+      "id": 29,
+      "topic": "UAC & Security Policies",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows",
+      "sanitized_filename": "UAC & Security Policies.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/3. Operating Systems Mastery/Windows/UAC & Security Policies.png"
+    },
+    {
+      "id": 30,
+      "topic": "Python (Core + Security Libraries: requests, socket, scapy, pwntools)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "Python (Core + Security Libraries: requests, socket, scapy, pwntools).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/Python (Core + Security Libraries: requests, socket, scapy, pwntools).png"
+    },
+    {
+      "id": 31,
+      "topic": "Bash Scripting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "Bash Scripting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/Bash Scripting.png"
+    },
+    {
+      "id": 32,
+      "topic": "PowerShell",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "PowerShell.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/PowerShell.png"
+    },
+    {
+      "id": 33,
+      "topic": "C/C++ Basics",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "C-C++ Basics.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/C-C++ Basics.png"
+    },
+    {
+      "id": 34,
+      "topic": "JavaScript (for Web App Testing)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "JavaScript (for Web App Testing).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/JavaScript (for Web App Testing).png"
+    },
+    {
+      "id": 35,
+      "topic": "SQL (for Injection Testing)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "SQL (for Injection Testing).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/SQL (for Injection Testing).png"
+    },
+    {
+      "id": 36,
+      "topic": "Assembly Language Basics (x86/x64)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "Assembly Language Basics (x86-x64).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/Assembly Language Basics (x86-x64).png"
+    },
+    {
+      "id": 37,
+      "topic": "Go/Rust (Modern Red Team Tools)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting",
+      "sanitized_filename": "Go-Rust (Modern Red Team Tools).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/4. Programming & Scripting/Go-Rust (Modern Red Team Tools).png"
+    },
+    {
+      "id": 38,
+      "topic": "Symmetric vs Asymmetric Encryption",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals",
+      "sanitized_filename": "Symmetric vs Asymmetric Encryption.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals/Symmetric vs Asymmetric Encryption.png"
+    },
+    {
+      "id": 39,
+      "topic": "Hashing Algorithms (MD5, SHA, bcrypt)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals",
+      "sanitized_filename": "Hashing Algorithms (MD5, SHA, bcrypt).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals/Hashing Algorithms (MD5, SHA, bcrypt).png"
+    },
+    {
+      "id": 40,
+      "topic": "PKI & Digital Certificates",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals",
+      "sanitized_filename": "PKI & Digital Certificates.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals/PKI & Digital Certificates.png"
+    },
+    {
+      "id": 41,
+      "topic": "SSL/TLS Handshake",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals",
+      "sanitized_filename": "SSL-TLS Handshake.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals/SSL-TLS Handshake.png"
+    },
+    {
+      "id": 42,
+      "topic": "Common Crypto Vulnerabilities",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals",
+      "sanitized_filename": "Common Crypto Vulnerabilities.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 1: FOUNDATION (Beginner - 0 to 6 Months)/5. Cryptography Fundamentals/Common Crypto Vulnerabilities.png"
+    },
+    {
+      "id": 43,
+      "topic": "Domain enumeration (whois, DNS records)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Domain enumeration (whois, DNS records).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Domain enumeration (whois, DNS records).png"
+    },
+    {
+      "id": 44,
+      "topic": "Subdomain enumeration (amass, subfinder, assetfinder)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Subdomain enumeration (amass, subfinder, assetfinder).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Subdomain enumeration (amass, subfinder, assetfinder).png"
+    },
+    {
+      "id": 45,
+      "topic": "Email harvesting & breach data (HaveIBeenPwned)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Email harvesting & breach data (HaveIBeenPwned).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Email harvesting & breach data (HaveIBeenPwned).png"
+    },
+    {
+      "id": 46,
+      "topic": "Social Media Intelligence (SOCMINT)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Social Media Intelligence (SOCMINT).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Social Media Intelligence (SOCMINT).png"
+    },
+    {
+      "id": 47,
+      "topic": "Google Dorking & Advanced Search Operators",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Google Dorking & Advanced Search Operators.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Google Dorking & Advanced Search Operators.png"
+    },
+    {
+      "id": 48,
+      "topic": "Shodan, Censys, Fofa",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Shodan, Censys, Fofa.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Shodan, Censys, Fofa.png"
+    },
+    {
+      "id": 49,
+      "topic": "GitHub/GitLab Recon",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "GitHub-GitLab Recon.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/GitHub-GitLab Recon.png"
+    },
+    {
+      "id": 50,
+      "topic": "Metadata extraction",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance",
+      "sanitized_filename": "Metadata extraction.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Passive Reconnaissance/Metadata extraction.png"
+    },
+    {
+      "id": 51,
+      "topic": "Port Scanning (Nmap advanced techniques)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance",
+      "sanitized_filename": "Port Scanning (Nmap advanced techniques).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance/Port Scanning (Nmap advanced techniques).png"
+    },
+    {
+      "id": 52,
+      "topic": "Service Enumeration",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance",
+      "sanitized_filename": "Service Enumeration.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance/Service Enumeration.png"
+    },
+    {
+      "id": 53,
+      "topic": "Banner Grabbing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance",
+      "sanitized_filename": "Banner Grabbing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance/Banner Grabbing.png"
+    },
+    {
+      "id": 54,
+      "topic": "Network Mapping",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance",
+      "sanitized_filename": "Network Mapping.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/6. Reconnaissance & OSINT/Active Reconnaissance/Network Mapping.png"
+    },
+    {
+      "id": 55,
+      "topic": "OWASP Top 10 (Deep Dive)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security",
+      "sanitized_filename": "OWASP Top 10 (Deep Dive).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/OWASP Top 10 (Deep Dive).png"
+    },
+    {
+      "id": 56,
+      "topic": "SQL Injection (Union-based, Error-based, Blind, Time-based)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks",
+      "sanitized_filename": "SQL Injection (Union-based, Error-based, Blind, Time-based).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks/SQL Injection (Union-based, Error-based, Blind, Time-based).png"
+    },
+    {
+      "id": 57,
+      "topic": "NoSQL Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks",
+      "sanitized_filename": "NoSQL Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks/NoSQL Injection.png"
+    },
+    {
+      "id": 58,
+      "topic": "Command Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks",
+      "sanitized_filename": "Command Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks/Command Injection.png"
+    },
+    {
+      "id": 59,
+      "topic": "LDAP Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks",
+      "sanitized_filename": "LDAP Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks/LDAP Injection.png"
+    },
+    {
+      "id": 60,
+      "topic": "XPath Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks",
+      "sanitized_filename": "XPath Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Injection Attacks/XPath Injection.png"
+    },
+    {
+      "id": 61,
+      "topic": "Authentication Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "Authentication Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/Authentication Bypass.png"
+    },
+    {
+      "id": 62,
+      "topic": "Brute Force & Credential Stuffing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "Brute Force & Credential Stuffing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/Brute Force & Credential Stuffing.png"
+    },
+    {
+      "id": 63,
+      "topic": "Session Management Flaws",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "Session Management Flaws.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/Session Management Flaws.png"
+    },
+    {
+      "id": 64,
+      "topic": "JWT Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "JWT Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/JWT Attacks.png"
+    },
+    {
+      "id": 65,
+      "topic": "OAuth/OpenID Misconfigurations",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "OAuth-OpenID Misconfigurations.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/OAuth-OpenID Misconfigurations.png"
+    },
+    {
+      "id": 66,
+      "topic": "MFA Bypass Techniques",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session",
+      "sanitized_filename": "MFA Bypass Techniques.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Authentication & Session/MFA Bypass Techniques.png"
+    },
+    {
+      "id": 67,
+      "topic": "Reflected, Stored, DOM-based",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)",
+      "sanitized_filename": "Reflected, Stored, DOM-based.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)/Reflected, Stored, DOM-based.png"
+    },
+    {
+      "id": 68,
+      "topic": "CSP Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)",
+      "sanitized_filename": "CSP Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)/CSP Bypass.png"
+    },
+    {
+      "id": 69,
+      "topic": "XSS Polyglots",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)",
+      "sanitized_filename": "XSS Polyglots.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Cross-Site Scripting (XSS)/XSS Polyglots.png"
+    },
+    {
+      "id": 70,
+      "topic": "Cross-Site Request Forgery (CSRF)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Cross-Site Request Forgery (CSRF).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Cross-Site Request Forgery (CSRF).png"
+    },
+    {
+      "id": 71,
+      "topic": "Server-Side Request Forgery (SSRF)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Server-Side Request Forgery (SSRF).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Server-Side Request Forgery (SSRF).png"
+    },
+    {
+      "id": 72,
+      "topic": "Insecure Deserialization",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Insecure Deserialization.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Insecure Deserialization.png"
+    },
+    {
+      "id": 73,
+      "topic": "XML External Entity (XXE)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "XML External Entity (XXE).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/XML External Entity (XXE).png"
+    },
+    {
+      "id": 74,
+      "topic": "Business Logic Flaws",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Business Logic Flaws.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Business Logic Flaws.png"
+    },
+    {
+      "id": 75,
+      "topic": "API Security Testing (REST, GraphQL, SOAP)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "API Security Testing (REST, GraphQL, SOAP).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/API Security Testing (REST, GraphQL, SOAP).png"
+    },
+    {
+      "id": 76,
+      "topic": "WebSocket Security",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "WebSocket Security.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/WebSocket Security.png"
+    },
+    {
+      "id": 77,
+      "topic": "Server-Side Template Injection (SSTI)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Server-Side Template Injection (SSTI).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Server-Side Template Injection (SSTI).png"
+    },
+    {
+      "id": 78,
+      "topic": "CORS Misconfigurations",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "CORS Misconfigurations.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/CORS Misconfigurations.png"
+    },
+    {
+      "id": 79,
+      "topic": "Web Cache Poisoning",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Web Cache Poisoning.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Web Cache Poisoning.png"
+    },
+    {
+      "id": 80,
+      "topic": "HTTP Request Smuggling",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "HTTP Request Smuggling.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/HTTP Request Smuggling.png"
+    },
+    {
+      "id": 81,
+      "topic": "Race Conditions",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks",
+      "sanitized_filename": "Race Conditions.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/Other Web Attacks/Race Conditions.png"
+    },
+    {
+      "id": 82,
+      "topic": "Bypassing file type restrictions",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities",
+      "sanitized_filename": "Bypassing file type restrictions.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities/Bypassing file type restrictions.png"
+    },
+    {
+      "id": 83,
+      "topic": "Web Shells",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities",
+      "sanitized_filename": "Web Shells.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities/Web Shells.png"
+    },
+    {
+      "id": 84,
+      "topic": "Local/Remote File Inclusion (LFI/RFI)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities",
+      "sanitized_filename": "Local-Remote File Inclusion (LFI-RFI).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/7. Web Application Security/File Upload Vulnerabilities/Local-Remote File Inclusion (LFI-RFI).png"
+    },
+    {
+      "id": 85,
+      "topic": "ARP Spoofing/Poisoning",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "ARP Spoofing-Poisoning.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/ARP Spoofing-Poisoning.png"
+    },
+    {
+      "id": 86,
+      "topic": "DNS Spoofing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "DNS Spoofing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/DNS Spoofing.png"
+    },
+    {
+      "id": 87,
+      "topic": "DHCP Exhaustion",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "DHCP Exhaustion.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/DHCP Exhaustion.png"
+    },
+    {
+      "id": 88,
+      "topic": "VLAN Hopping",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "VLAN Hopping.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/VLAN Hopping.png"
+    },
+    {
+      "id": 89,
+      "topic": "STP Manipulation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "STP Manipulation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/STP Manipulation.png"
+    },
+    {
+      "id": 90,
+      "topic": "Sniffing & MITM Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks",
+      "sanitized_filename": "Sniffing & MITM Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Network Protocol Attacks/Sniffing & MITM Attacks.png"
+    },
+    {
+      "id": 91,
+      "topic": "Online (Hydra, Medusa)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks",
+      "sanitized_filename": "Online (Hydra, Medusa).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks/Online (Hydra, Medusa).png"
+    },
+    {
+      "id": 92,
+      "topic": "Offline (Hashcat, John the Ripper)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks",
+      "sanitized_filename": "Offline (Hashcat, John the Ripper).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks/Offline (Hashcat, John the Ripper).png"
+    },
+    {
+      "id": 93,
+      "topic": "Rainbow Tables",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks",
+      "sanitized_filename": "Rainbow Tables.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks/Rainbow Tables.png"
+    },
+    {
+      "id": 94,
+      "topic": "Pass-the-Hash",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks",
+      "sanitized_filename": "Pass-the-Hash.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Password Attacks/Pass-the-Hash.png"
+    },
+    {
+      "id": 95,
+      "topic": "SMB Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases",
+      "sanitized_filename": "SMB Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases/SMB Exploitation.png"
+    },
+    {
+      "id": 96,
+      "topic": "SNMP Enumeration & Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases",
+      "sanitized_filename": "SNMP Enumeration & Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases/SNMP Enumeration & Exploitation.png"
+    },
+    {
+      "id": 97,
+      "topic": "FTP/SFTP/TFTP Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases",
+      "sanitized_filename": "FTP-SFTP-TFTP Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases/FTP-SFTP-TFTP Attacks.png"
+    },
+    {
+      "id": 98,
+      "topic": "SSH Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases",
+      "sanitized_filename": "SSH Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases/SSH Attacks.png"
+    },
+    {
+      "id": 99,
+      "topic": "Database Exploitation (MySQL, MSSQL, PostgreSQL, MongoDB, Redis)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases",
+      "sanitized_filename": "Database Exploitation (MySQL, MSSQL, PostgreSQL, MongoDB, Redis).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/8. Network Penetration Testing/Services & Databases/Database Exploitation (MySQL, MSSQL, PostgreSQL, MongoDB, Redis).png"
+    },
+    {
+      "id": 100,
+      "topic": "WiFi Standards (802.11 a/b/g/n/ac/ax)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "WiFi Standards (802.11 a-b-g-n-ac-ax).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/WiFi Standards (802.11 a-b-g-n-ac-ax).png"
+    },
+    {
+      "id": 101,
+      "topic": "WEP Cracking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "WEP Cracking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/WEP Cracking.png"
+    },
+    {
+      "id": 102,
+      "topic": "WPA/WPA2 Cracking (Handshake capture, PMKID)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "WPA-WPA2 Cracking (Handshake capture, PMKID).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/WPA-WPA2 Cracking (Handshake capture, PMKID).png"
+    },
+    {
+      "id": 103,
+      "topic": "WPA3 Security & Vulnerabilities",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "WPA3 Security & Vulnerabilities.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/WPA3 Security & Vulnerabilities.png"
+    },
+    {
+      "id": 104,
+      "topic": "Evil Twin Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "Evil Twin Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/Evil Twin Attacks.png"
+    },
+    {
+      "id": 105,
+      "topic": "Rogue Access Points",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "Rogue Access Points.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/Rogue Access Points.png"
+    },
+    {
+      "id": 106,
+      "topic": "WiFi Pineapple",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "WiFi Pineapple.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/WiFi Pineapple.png"
+    },
+    {
+      "id": 107,
+      "topic": "Bluetooth Hacking (BlueBorne, KNOB)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "Bluetooth Hacking (BlueBorne, KNOB).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/Bluetooth Hacking (BlueBorne, KNOB).png"
+    },
+    {
+      "id": 108,
+      "topic": "RFID/NFC Hacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "RFID-NFC Hacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/RFID-NFC Hacking.png"
+    },
+    {
+      "id": 109,
+      "topic": "Wireless Protocol Analysis",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security",
+      "sanitized_filename": "Wireless Protocol Analysis.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/9. Wireless Security/Wireless Protocol Analysis.png"
+    },
+    {
+      "id": 110,
+      "topic": "Phishing (Email, SMS, Voice)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Phishing (Email, SMS, Voice).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Phishing (Email, SMS, Voice).png"
+    },
+    {
+      "id": 111,
+      "topic": "Spear Phishing & Whaling",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Spear Phishing & Whaling.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Spear Phishing & Whaling.png"
+    },
+    {
+      "id": 112,
+      "topic": "Pretexting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Pretexting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Pretexting.png"
+    },
+    {
+      "id": 113,
+      "topic": "Baiting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Baiting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Baiting.png"
+    },
+    {
+      "id": 114,
+      "topic": "Quid Pro Quo",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Quid Pro Quo.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Quid Pro Quo.png"
+    },
+    {
+      "id": 115,
+      "topic": "Tailgating & Piggybacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Tailgating & Piggybacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Tailgating & Piggybacking.png"
+    },
+    {
+      "id": 116,
+      "topic": "Physical Security Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Physical Security Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Physical Security Bypass.png"
+    },
+    {
+      "id": 117,
+      "topic": "OSINT for Social Engineering",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "OSINT for Social Engineering.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/OSINT for Social Engineering.png"
+    },
+    {
+      "id": 118,
+      "topic": "Creating Convincing Scenarios",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Creating Convincing Scenarios.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Creating Convincing Scenarios.png"
+    },
+    {
+      "id": 119,
+      "topic": "Psychology of Manipulation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering",
+      "sanitized_filename": "Psychology of Manipulation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 2: CORE PENETRATION TESTING (Intermediate - 6 to 12 Months)/10. Social Engineering/Psychology of Manipulation.png"
+    },
+    {
+      "id": 120,
+      "topic": "Domains, Forests, Trusts",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components",
+      "sanitized_filename": "Domains, Forests, Trusts.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components/Domains, Forests, Trusts.png"
+    },
+    {
+      "id": 121,
+      "topic": "Domain Controllers",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components",
+      "sanitized_filename": "Domain Controllers.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components/Domain Controllers.png"
+    },
+    {
+      "id": 122,
+      "topic": "Group Policy",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components",
+      "sanitized_filename": "Group Policy.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components/Group Policy.png"
+    },
+    {
+      "id": 123,
+      "topic": "LDAP & Kerberos",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components",
+      "sanitized_filename": "LDAP & Kerberos.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/AD Architecture & Components/LDAP & Kerberos.png"
+    },
+    {
+      "id": 124,
+      "topic": "BloodHound & SharpHound",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration",
+      "sanitized_filename": "BloodHound & SharpHound.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration/BloodHound & SharpHound.png"
+    },
+    {
+      "id": 125,
+      "topic": "PowerView & ADRecon",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration",
+      "sanitized_filename": "PowerView & ADRecon.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration/PowerView & ADRecon.png"
+    },
+    {
+      "id": 126,
+      "topic": "LDAP Queries",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration",
+      "sanitized_filename": "LDAP Queries.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Enumeration/LDAP Queries.png"
+    },
+    {
+      "id": 127,
+      "topic": "Mimikatz (sekurlsa, lsadump, token)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "Mimikatz (sekurlsa, lsadump, token).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/Mimikatz (sekurlsa, lsadump, token).png"
+    },
+    {
+      "id": 128,
+      "topic": "LSASS Dumping",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "LSASS Dumping.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/LSASS Dumping.png"
+    },
+    {
+      "id": 129,
+      "topic": "SAM Database",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "SAM Database.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/SAM Database.png"
+    },
+    {
+      "id": 130,
+      "topic": "NTDS.dit Extraction",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "NTDS.dit Extraction.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/NTDS.dit Extraction.png"
+    },
+    {
+      "id": 131,
+      "topic": "Kerberoasting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "Kerberoasting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/Kerberoasting.png"
+    },
+    {
+      "id": 132,
+      "topic": "AS-REP Roasting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting",
+      "sanitized_filename": "AS-REP Roasting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Credential Harvesting/AS-REP Roasting.png"
+    },
+    {
+      "id": 133,
+      "topic": "Pass-the-Hash",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "Pass-the-Hash.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/Pass-the-Hash.png"
+    },
+    {
+      "id": 134,
+      "topic": "Pass-the-Ticket",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "Pass-the-Ticket.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/Pass-the-Ticket.png"
+    },
+    {
+      "id": 135,
+      "topic": "Overpass-the-Hash",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "Overpass-the-Hash.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/Overpass-the-Hash.png"
+    },
+    {
+      "id": 136,
+      "topic": "DCOM & WMI Exec",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "DCOM & WMI Exec.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/DCOM & WMI Exec.png"
+    },
+    {
+      "id": 137,
+      "topic": "PsExec & SMBExec",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "PsExec & SMBExec.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/PsExec & SMBExec.png"
+    },
+    {
+      "id": 138,
+      "topic": "WinRM & PowerShell Remoting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "WinRM & PowerShell Remoting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/WinRM & PowerShell Remoting.png"
+    },
+    {
+      "id": 139,
+      "topic": "RDP Hijacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement",
+      "sanitized_filename": "RDP Hijacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Lateral Movement/RDP Hijacking.png"
+    },
+    {
+      "id": 140,
+      "topic": "Unquoted Service Paths",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation",
+      "sanitized_filename": "Unquoted Service Paths.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation/Unquoted Service Paths.png"
+    },
+    {
+      "id": 141,
+      "topic": "DLL Hijacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation",
+      "sanitized_filename": "DLL Hijacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation/DLL Hijacking.png"
+    },
+    {
+      "id": 142,
+      "topic": "Token Impersonation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation",
+      "sanitized_filename": "Token Impersonation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation/Token Impersonation.png"
+    },
+    {
+      "id": 143,
+      "topic": "Kerberos Delegation (Constrained, Unconstrained, RBCD)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation",
+      "sanitized_filename": "Kerberos Delegation (Constrained, Unconstrained, RBCD).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation/Kerberos Delegation (Constrained, Unconstrained, RBCD).png"
+    },
+    {
+      "id": 144,
+      "topic": "ACL Abuse (DCSync, GenericAll, WriteDacl)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation",
+      "sanitized_filename": "ACL Abuse (DCSync, GenericAll, WriteDacl).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Privilege Escalation/ACL Abuse (DCSync, GenericAll, WriteDacl).png"
+    },
+    {
+      "id": 145,
+      "topic": "Golden Ticket",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "Golden Ticket.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/Golden Ticket.png"
+    },
+    {
+      "id": 146,
+      "topic": "Silver Ticket",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "Silver Ticket.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/Silver Ticket.png"
+    },
+    {
+      "id": 147,
+      "topic": "Diamond Ticket",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "Diamond Ticket.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/Diamond Ticket.png"
+    },
+    {
+      "id": 148,
+      "topic": "Skeleton Key",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "Skeleton Key.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/Skeleton Key.png"
+    },
+    {
+      "id": 149,
+      "topic": "AdminSDHolder",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "AdminSDHolder.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/AdminSDHolder.png"
+    },
+    {
+      "id": 150,
+      "topic": "DCShadow",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence",
+      "sanitized_filename": "DCShadow.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Persistence/DCShadow.png"
+    },
+    {
+      "id": 151,
+      "topic": "Cross-Forest & Cross-Domain Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Cross-Domain & Cloud",
+      "sanitized_filename": "Cross-Forest & Cross-Domain Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Cross-Domain & Cloud/Cross-Forest & Cross-Domain Attacks.png"
+    },
+    {
+      "id": 152,
+      "topic": "Azure AD / Entra ID Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Cross-Domain & Cloud",
+      "sanitized_filename": "Azure AD - Entra ID Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/11. Active Directory Exploitation/Cross-Domain & Cloud/Azure AD - Entra ID Attacks.png"
+    },
+    {
+      "id": 153,
+      "topic": "Backdoors & Rootkits",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "Backdoors & Rootkits.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/Backdoors & Rootkits.png"
+    },
+    {
+      "id": 154,
+      "topic": "Web Shells",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "Web Shells.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/Web Shells.png"
+    },
+    {
+      "id": 155,
+      "topic": "Reverse Shells & Bind Shells",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "Reverse Shells & Bind Shells.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/Reverse Shells & Bind Shells.png"
+    },
+    {
+      "id": 156,
+      "topic": "Tunneling & Port Forwarding",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "Tunneling & Port Forwarding.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/Tunneling & Port Forwarding.png"
+    },
+    {
+      "id": 157,
+      "topic": "SOCKS Proxies (Chisel, Ligolo, sshuttle)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "SOCKS Proxies (Chisel, Ligolo, sshuttle).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/SOCKS Proxies (Chisel, Ligolo, sshuttle).png"
+    },
+    {
+      "id": 158,
+      "topic": "Data Exfiltration Techniques",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access",
+      "sanitized_filename": "Data Exfiltration Techniques.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Maintaining Access/Data Exfiltration Techniques.png"
+    },
+    {
+      "id": 159,
+      "topic": "Privilege Escalation (Linux & Windows)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation",
+      "sanitized_filename": "Privilege Escalation (Linux & Windows).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Privilege Escalation (Linux & Windows).png"
+    },
+    {
+      "id": 160,
+      "topic": "AMSI Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion",
+      "sanitized_filename": "AMSI Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion/AMSI Bypass.png"
+    },
+    {
+      "id": 161,
+      "topic": "AppLocker Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion",
+      "sanitized_filename": "AppLocker Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion/AppLocker Bypass.png"
+    },
+    {
+      "id": 162,
+      "topic": "Constrained Language Mode Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion",
+      "sanitized_filename": "Constrained Language Mode Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion/Constrained Language Mode Bypass.png"
+    },
+    {
+      "id": 163,
+      "topic": "UAC Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion",
+      "sanitized_filename": "UAC Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion/UAC Bypass.png"
+    },
+    {
+      "id": 164,
+      "topic": "ETW (Event Tracing for Windows) Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion",
+      "sanitized_filename": "ETW (Event Tracing for Windows) Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/12. Post-Exploitation/Defense Evasion/ETW (Event Tracing for Windows) Bypass.png"
+    },
+    {
+      "id": 165,
+      "topic": "Trojans, RATs, Keyloggers",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware",
+      "sanitized_filename": "Trojans, RATs, Keyloggers.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware/Trojans, RATs, Keyloggers.png"
+    },
+    {
+      "id": 166,
+      "topic": "Rootkits (User-mode & Kernel-mode)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware",
+      "sanitized_filename": "Rootkits (User-mode & Kernel-mode).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware/Rootkits (User-mode & Kernel-mode).png"
+    },
+    {
+      "id": 167,
+      "topic": "Bootkits",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware",
+      "sanitized_filename": "Bootkits.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware/Bootkits.png"
+    },
+    {
+      "id": 168,
+      "topic": "Fileless Malware",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware",
+      "sanitized_filename": "Fileless Malware.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Types of Malware/Fileless Malware.png"
+    },
+    {
+      "id": 169,
+      "topic": "Malware Analysis (Static & Dynamic)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts",
+      "sanitized_filename": "Malware Analysis (Static & Dynamic).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts/Malware Analysis (Static & Dynamic).png"
+    },
+    {
+      "id": 170,
+      "topic": "Packers & Crypters",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts",
+      "sanitized_filename": "Packers & Crypters.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts/Packers & Crypters.png"
+    },
+    {
+      "id": 171,
+      "topic": "Stagers vs Stageless Payloads",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts",
+      "sanitized_filename": "Stagers vs Stageless Payloads.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts/Stagers vs Stageless Payloads.png"
+    },
+    {
+      "id": 172,
+      "topic": "Payload Delivery Methods",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts",
+      "sanitized_filename": "Payload Delivery Methods.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Core Concepts/Payload Delivery Methods.png"
+    },
+    {
+      "id": 173,
+      "topic": "HTTP/HTTPS",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication",
+      "sanitized_filename": "HTTP-HTTPS.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication/HTTP-HTTPS.png"
+    },
+    {
+      "id": 174,
+      "topic": "DNS Tunneling",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication",
+      "sanitized_filename": "DNS Tunneling.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication/DNS Tunneling.png"
+    },
+    {
+      "id": 175,
+      "topic": "Domain Fronting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication",
+      "sanitized_filename": "Domain Fronting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication/Domain Fronting.png"
+    },
+    {
+      "id": 176,
+      "topic": "Custom Protocols",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication",
+      "sanitized_filename": "Custom Protocols.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/C2 Communication/Custom Protocols.png"
+    },
+    {
+      "id": 177,
+      "topic": "Sandbox Evasion",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques",
+      "sanitized_filename": "Sandbox Evasion.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques/Sandbox Evasion.png"
+    },
+    {
+      "id": 178,
+      "topic": "Debugger Detection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques",
+      "sanitized_filename": "Debugger Detection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques/Debugger Detection.png"
+    },
+    {
+      "id": 179,
+      "topic": "VM Detection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques",
+      "sanitized_filename": "VM Detection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/13. Malware Development/Anti-Analysis Techniques/VM Detection.png"
+    },
+    {
+      "id": 180,
+      "topic": "Cobalt Strike (Malleable C2 Profiles)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Cobalt Strike (Malleable C2 Profiles).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Cobalt Strike (Malleable C2 Profiles).png"
+    },
+    {
+      "id": 181,
+      "topic": "Metasploit Framework (Advanced Usage)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Metasploit Framework (Advanced Usage).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Metasploit Framework (Advanced Usage).png"
+    },
+    {
+      "id": 182,
+      "topic": "Sliver",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Sliver.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Sliver.png"
+    },
+    {
+      "id": 183,
+      "topic": "Havoc",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Havoc.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Havoc.png"
+    },
+    {
+      "id": 184,
+      "topic": "Mythic",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Mythic.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Mythic.png"
+    },
+    {
+      "id": 185,
+      "topic": "Covenant",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Covenant.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Covenant.png"
+    },
+    {
+      "id": 186,
+      "topic": "Brute Ratel C4",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Brute Ratel C4.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Brute Ratel C4.png"
+    },
+    {
+      "id": 187,
+      "topic": "Custom C2 Development",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Custom C2 Development.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Custom C2 Development.png"
+    },
+    {
+      "id": 188,
+      "topic": "Domain Generation Algorithms (DGA)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Domain Generation Algorithms (DGA).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Domain Generation Algorithms (DGA).png"
+    },
+    {
+      "id": 189,
+      "topic": "Redirectors & Infrastructure",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "Redirectors & Infrastructure.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/Redirectors & Infrastructure.png"
+    },
+    {
+      "id": 190,
+      "topic": "OPSEC for C2",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks",
+      "sanitized_filename": "OPSEC for C2.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/14. Command & Control (C2) Frameworks/OPSEC for C2.png"
+    },
+    {
+      "id": 191,
+      "topic": "Signature Evasion",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion",
+      "sanitized_filename": "Signature Evasion.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion/Signature Evasion.png"
+    },
+    {
+      "id": 192,
+      "topic": "Heuristic Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion",
+      "sanitized_filename": "Heuristic Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion/Heuristic Bypass.png"
+    },
+    {
+      "id": 193,
+      "topic": "Behavior Analysis Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion",
+      "sanitized_filename": "Behavior Analysis Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Antivirus Evasion/Behavior Analysis Bypass.png"
+    },
+    {
+      "id": 194,
+      "topic": "API Hooking & Unhooking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "API Hooking & Unhooking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/API Hooking & Unhooking.png"
+    },
+    {
+      "id": 195,
+      "topic": "Direct Syscalls",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "Direct Syscalls.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/Direct Syscalls.png"
+    },
+    {
+      "id": 196,
+      "topic": "Indirect Syscalls",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "Indirect Syscalls.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/Indirect Syscalls.png"
+    },
+    {
+      "id": 197,
+      "topic": "Hell's Gate, Heaven's Gate, Halo's Gate",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "Hell's Gate, Heaven's Gate, Halo's Gate.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/Hell's Gate, Heaven's Gate, Halo's Gate.png"
+    },
+    {
+      "id": 198,
+      "topic": "SSN (System Service Number) Sorting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "SSN (System Service Number) Sorting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/SSN (System Service Number) Sorting.png"
+    },
+    {
+      "id": 199,
+      "topic": "Callbacks & APC Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion",
+      "sanitized_filename": "Callbacks & APC Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/EDR Evasion/Callbacks & APC Injection.png"
+    },
+    {
+      "id": 200,
+      "topic": "DLL Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "DLL Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/DLL Injection.png"
+    },
+    {
+      "id": 201,
+      "topic": "Process Hollowing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "Process Hollowing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/Process Hollowing.png"
+    },
+    {
+      "id": 202,
+      "topic": "Process Doppelg\u00e4nging",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "Process Doppelg\u00e4nging.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/Process Doppelg\u00e4nging.png"
+    },
+    {
+      "id": 203,
+      "topic": "Process Herpaderping",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "Process Herpaderping.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/Process Herpaderping.png"
+    },
+    {
+      "id": 204,
+      "topic": "Process Ghosting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "Process Ghosting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/Process Ghosting.png"
+    },
+    {
+      "id": 205,
+      "topic": "APC Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "APC Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/APC Injection.png"
+    },
+    {
+      "id": 206,
+      "topic": "Thread Hijacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques",
+      "sanitized_filename": "Thread Hijacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Process Injection Techniques/Thread Hijacking.png"
+    },
+    {
+      "id": 207,
+      "topic": "Traffic Encryption",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion",
+      "sanitized_filename": "Traffic Encryption.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion/Traffic Encryption.png"
+    },
+    {
+      "id": 208,
+      "topic": "Domain Fronting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion",
+      "sanitized_filename": "Domain Fronting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion/Domain Fronting.png"
+    },
+    {
+      "id": 209,
+      "topic": "Protocol Smuggling",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion",
+      "sanitized_filename": "Protocol Smuggling.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 3: ADVANCED RED TEAMING (Advanced - 1 to 2 Years)/15. Evasion Techniques/Network Evasion/Protocol Smuggling.png"
+    },
+    {
+      "id": 210,
+      "topic": "Buffer Overflows",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Buffer Overflows.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Buffer Overflows.png"
+    },
+    {
+      "id": 211,
+      "topic": "Stack-based",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Stack-based.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Stack-based.png"
+    },
+    {
+      "id": 212,
+      "topic": "Heap-based",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Heap-based.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Heap-based.png"
+    },
+    {
+      "id": 213,
+      "topic": "SEH Overflows",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "SEH Overflows.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/SEH Overflows.png"
+    },
+    {
+      "id": 214,
+      "topic": "Format String Vulnerabilities",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Format String Vulnerabilities.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Format String Vulnerabilities.png"
+    },
+    {
+      "id": 215,
+      "topic": "Use-After-Free (UAF)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Use-After-Free (UAF).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Use-After-Free (UAF).png"
+    },
+    {
+      "id": 216,
+      "topic": "Integer Overflows",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Integer Overflows.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Integer Overflows.png"
+    },
+    {
+      "id": 217,
+      "topic": "Type Confusion",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Type Confusion.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Type Confusion.png"
+    },
+    {
+      "id": 218,
+      "topic": "ROP (Return-Oriented Programming)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "ROP (Return-Oriented Programming).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/ROP (Return-Oriented Programming).png"
+    },
+    {
+      "id": 219,
+      "topic": "JOP (Jump-Oriented Programming)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "JOP (Jump-Oriented Programming).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/JOP (Jump-Oriented Programming).png"
+    },
+    {
+      "id": 220,
+      "topic": "DEP/NX Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "DEP-NX Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/DEP-NX Bypass.png"
+    },
+    {
+      "id": 221,
+      "topic": "ASLR Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "ASLR Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/ASLR Bypass.png"
+    },
+    {
+      "id": 222,
+      "topic": "CFG (Control Flow Guard) Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "CFG (Control Flow Guard) Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/CFG (Control Flow Guard) Bypass.png"
+    },
+    {
+      "id": 223,
+      "topic": "ACG (Arbitrary Code Guard) Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "ACG (Arbitrary Code Guard) Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/ACG (Arbitrary Code Guard) Bypass.png"
+    },
+    {
+      "id": 224,
+      "topic": "Browser Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Browser Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Browser Exploitation.png"
+    },
+    {
+      "id": 225,
+      "topic": "Kernel Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Kernel Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Kernel Exploitation.png"
+    },
+    {
+      "id": 226,
+      "topic": "Windows Kernel Drivers",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Windows Kernel Drivers.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Windows Kernel Drivers.png"
+    },
+    {
+      "id": 227,
+      "topic": "Linux Kernel Modules",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "Linux Kernel Modules.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/Linux Kernel Modules.png"
+    },
+    {
+      "id": 228,
+      "topic": "LPE via Kernel Vulnerabilities",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development",
+      "sanitized_filename": "LPE via Kernel Vulnerabilities.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/16. Exploit Development/LPE via Kernel Vulnerabilities.png"
+    },
+    {
+      "id": 229,
+      "topic": "Assembly Language (x86, x64, ARM)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Assembly Language (x86, x64, ARM).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Assembly Language (x86, x64, ARM).png"
+    },
+    {
+      "id": 230,
+      "topic": "Disassemblers (IDA Pro, Ghidra, Binary Ninja)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Disassemblers (IDA Pro, Ghidra, Binary Ninja).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Disassemblers (IDA Pro, Ghidra, Binary Ninja).png"
+    },
+    {
+      "id": 231,
+      "topic": "Debuggers (x64dbg, WinDbg, GDB, LLDB)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Debuggers (x64dbg, WinDbg, GDB, LLDB).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Debuggers (x64dbg, WinDbg, GDB, LLDB).png"
+    },
+    {
+      "id": 232,
+      "topic": "Decompilers",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Decompilers.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Decompilers.png"
+    },
+    {
+      "id": 233,
+      "topic": "Binary Patching",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Binary Patching.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Binary Patching.png"
+    },
+    {
+      "id": 234,
+      "topic": "Firmware Reversing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Firmware Reversing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Firmware Reversing.png"
+    },
+    {
+      "id": 235,
+      "topic": "Anti-Reverse Engineering Techniques",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Anti-Reverse Engineering Techniques.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Anti-Reverse Engineering Techniques.png"
+    },
+    {
+      "id": 236,
+      "topic": "Obfuscation & Deobfuscation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering",
+      "sanitized_filename": "Obfuscation & Deobfuscation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/17. Reverse Engineering/Obfuscation & Deobfuscation.png"
+    },
+    {
+      "id": 237,
+      "topic": "Windows Architecture (User-mode vs Kernel-mode)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Windows Architecture (User-mode vs Kernel-mode).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Windows Architecture (User-mode vs Kernel-mode).png"
+    },
+    {
+      "id": 238,
+      "topic": "PE File Format",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "PE File Format.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/PE File Format.png"
+    },
+    {
+      "id": 239,
+      "topic": "Windows Memory Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Windows Memory Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Windows Memory Management.png"
+    },
+    {
+      "id": 240,
+      "topic": "Process & Thread Internals",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Process & Thread Internals.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Process & Thread Internals.png"
+    },
+    {
+      "id": 241,
+      "topic": "Handle Tables",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Handle Tables.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Handle Tables.png"
+    },
+    {
+      "id": 242,
+      "topic": "Object Manager",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Object Manager.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Object Manager.png"
+    },
+    {
+      "id": 243,
+      "topic": "ALPC (Advanced Local Procedure Call)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "ALPC (Advanced Local Procedure Call).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/ALPC (Advanced Local Procedure Call).png"
+    },
+    {
+      "id": 244,
+      "topic": "Windows Filtering Platform (WFP)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Windows Filtering Platform (WFP).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Windows Filtering Platform (WFP).png"
+    },
+    {
+      "id": 245,
+      "topic": "Windows Security Model (Tokens, SIDs, ACLs)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:",
+      "sanitized_filename": "Windows Security Model (Tokens, SIDs, ACLs).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Windows Internals:/Windows Security Model (Tokens, SIDs, ACLs).png"
+    },
+    {
+      "id": 246,
+      "topic": "ELF File Format",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "ELF File Format.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/ELF File Format.png"
+    },
+    {
+      "id": 247,
+      "topic": "Linux Memory Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "Linux Memory Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/Linux Memory Management.png"
+    },
+    {
+      "id": 248,
+      "topic": "System Calls",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "System Calls.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/System Calls.png"
+    },
+    {
+      "id": 249,
+      "topic": "Kernel Modules",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "Kernel Modules.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/Kernel Modules.png"
+    },
+    {
+      "id": 250,
+      "topic": "eBPF",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "eBPF.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/eBPF.png"
+    },
+    {
+      "id": 251,
+      "topic": "namespaces & cgroups",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "namespaces & cgroups.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/namespaces & cgroups.png"
+    },
+    {
+      "id": 252,
+      "topic": "seccomp, AppArmor, SELinux",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:",
+      "sanitized_filename": "seccomp, AppArmor, SELinux.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/18. OS Internals/Linux Internals:/seccomp, AppArmor, SELinux.png"
+    },
+    {
+      "id": 253,
+      "topic": "IAM Privilege Escalation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming",
+      "sanitized_filename": "IAM Privilege Escalation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming/IAM Privilege Escalation.png"
+    },
+    {
+      "id": 254,
+      "topic": "S3 Bucket Enumeration & Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming",
+      "sanitized_filename": "S3 Bucket Enumeration & Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming/S3 Bucket Enumeration & Exploitation.png"
+    },
+    {
+      "id": 255,
+      "topic": "Lambda Abuse",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming",
+      "sanitized_filename": "Lambda Abuse.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming/Lambda Abuse.png"
+    },
+    {
+      "id": 256,
+      "topic": "EC2 Metadata Service (IMDSv1 vs IMDSv2)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming",
+      "sanitized_filename": "EC2 Metadata Service (IMDSv1 vs IMDSv2).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming/EC2 Metadata Service (IMDSv1 vs IMDSv2).png"
+    },
+    {
+      "id": 257,
+      "topic": "STS Token Abuse",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming",
+      "sanitized_filename": "STS Token Abuse.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/AWS Red Teaming/STS Token Abuse.png"
+    },
+    {
+      "id": 258,
+      "topic": "Azure AD Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming",
+      "sanitized_filename": "Azure AD Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming/Azure AD Attacks.png"
+    },
+    {
+      "id": 259,
+      "topic": "Managed Identity Abuse",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming",
+      "sanitized_filename": "Managed Identity Abuse.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming/Managed Identity Abuse.png"
+    },
+    {
+      "id": 260,
+      "topic": "Storage Account Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming",
+      "sanitized_filename": "Storage Account Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Azure Red Teaming/Storage Account Attacks.png"
+    },
+    {
+      "id": 261,
+      "topic": "GCP Red Teaming",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming",
+      "sanitized_filename": "GCP Red Teaming.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/GCP Red Teaming.png"
+    },
+    {
+      "id": 262,
+      "topic": "Docker Escape",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security",
+      "sanitized_filename": "Docker Escape.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security/Docker Escape.png"
+    },
+    {
+      "id": 263,
+      "topic": "Kubernetes Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security",
+      "sanitized_filename": "Kubernetes Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security/Kubernetes Attacks.png"
+    },
+    {
+      "id": 264,
+      "topic": "Container Breakout",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security",
+      "sanitized_filename": "Container Breakout.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Container Security/Container Breakout.png"
+    },
+    {
+      "id": 265,
+      "topic": "Cloud Persistence Techniques",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Cloud Advanced",
+      "sanitized_filename": "Cloud Persistence Techniques.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Cloud Advanced/Cloud Persistence Techniques.png"
+    },
+    {
+      "id": 266,
+      "topic": "Serverless Security",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Cloud Advanced",
+      "sanitized_filename": "Serverless Security.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/19. Cloud Red Teaming/Cloud Advanced/Serverless Security.png"
+    },
+    {
+      "id": 267,
+      "topic": "APK Reversing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security",
+      "sanitized_filename": "APK Reversing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security/APK Reversing.png"
+    },
+    {
+      "id": 268,
+      "topic": "Root Detection Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security",
+      "sanitized_filename": "Root Detection Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security/Root Detection Bypass.png"
+    },
+    {
+      "id": 269,
+      "topic": "Frida & Objection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security",
+      "sanitized_filename": "Frida & Objection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security/Frida & Objection.png"
+    },
+    {
+      "id": 270,
+      "topic": "Intent Injection",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security",
+      "sanitized_filename": "Intent Injection.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security/Intent Injection.png"
+    },
+    {
+      "id": 271,
+      "topic": "Content Provider Abuse",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security",
+      "sanitized_filename": "Content Provider Abuse.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Android Security/Content Provider Abuse.png"
+    },
+    {
+      "id": 272,
+      "topic": "Jailbreaking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security",
+      "sanitized_filename": "Jailbreaking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security/Jailbreaking.png"
+    },
+    {
+      "id": 273,
+      "topic": "IPA Analysis",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security",
+      "sanitized_filename": "IPA Analysis.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security/IPA Analysis.png"
+    },
+    {
+      "id": 274,
+      "topic": "Frida on iOS",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security",
+      "sanitized_filename": "Frida on iOS.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security/Frida on iOS.png"
+    },
+    {
+      "id": 275,
+      "topic": "Keychain Analysis",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security",
+      "sanitized_filename": "Keychain Analysis.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/iOS Security/Keychain Analysis.png"
+    },
+    {
+      "id": 276,
+      "topic": "Mobile API Testing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Mobile General",
+      "sanitized_filename": "Mobile API Testing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Mobile General/Mobile API Testing.png"
+    },
+    {
+      "id": 277,
+      "topic": "Mobile Malware Analysis",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Mobile General",
+      "sanitized_filename": "Mobile Malware Analysis.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 4: EXPERT LEVEL (Expert - 2 to 3 Years)/20. Mobile Security/Mobile General/Mobile Malware Analysis.png"
+    },
+    {
+      "id": 278,
+      "topic": "APT Lifecycle (Kill Chain, MITRE ATT&CK, Unified Kill Chain)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations",
+      "sanitized_filename": "APT Lifecycle (Kill Chain, MITRE ATT&CK, Unified Kill Chain).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations/APT Lifecycle (Kill Chain, MITRE ATT&CK, Unified Kill Chain).png"
+    },
+    {
+      "id": 279,
+      "topic": "TTPs (Tactics, Techniques, Procedures)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations",
+      "sanitized_filename": "TTPs (Tactics, Techniques, Procedures).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations/TTPs (Tactics, Techniques, Procedures).png"
+    },
+    {
+      "id": 280,
+      "topic": "Threat Intelligence Integration",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations",
+      "sanitized_filename": "Threat Intelligence Integration.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/APT Foundations/Threat Intelligence Integration.png"
+    },
+    {
+      "id": 281,
+      "topic": "APT29 (Cozy Bear)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation",
+      "sanitized_filename": "APT29 (Cozy Bear).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation/APT29 (Cozy Bear).png"
+    },
+    {
+      "id": 282,
+      "topic": "APT28 (Fancy Bear)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation",
+      "sanitized_filename": "APT28 (Fancy Bear).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation/APT28 (Fancy Bear).png"
+    },
+    {
+      "id": 283,
+      "topic": "Lazarus Group",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation",
+      "sanitized_filename": "Lazarus Group.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation/Lazarus Group.png"
+    },
+    {
+      "id": 284,
+      "topic": "FIN7, FIN6",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation",
+      "sanitized_filename": "FIN7, FIN6.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation/FIN7, FIN6.png"
+    },
+    {
+      "id": 285,
+      "topic": "Custom Threat Profiles",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation",
+      "sanitized_filename": "Custom Threat Profiles.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Adversary Emulation/Custom Threat Profiles.png"
+    },
+    {
+      "id": 286,
+      "topic": "Living Off The Land (LOTL) Techniques",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques",
+      "sanitized_filename": "Living Off The Land (LOTL) Techniques.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques/Living Off The Land (LOTL) Techniques.png"
+    },
+    {
+      "id": 287,
+      "topic": "Advanced Persistence Mechanisms",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques",
+      "sanitized_filename": "Advanced Persistence Mechanisms.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques/Advanced Persistence Mechanisms.png"
+    },
+    {
+      "id": 288,
+      "topic": "Supply Chain Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques",
+      "sanitized_filename": "Supply Chain Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques/Supply Chain Attacks.png"
+    },
+    {
+      "id": 289,
+      "topic": "Zero-Day Research & Exploitation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques",
+      "sanitized_filename": "Zero-Day Research & Exploitation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/21. Advanced Persistent Threat (APT) Simulation/Advanced Techniques/Zero-Day Research & Exploitation.png"
+    },
+    {
+      "id": 290,
+      "topic": "UART, JTAG, SPI Flashing",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "UART, JTAG, SPI Flashing.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/UART, JTAG, SPI Flashing.png"
+    },
+    {
+      "id": 291,
+      "topic": "Side-Channel Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "Side-Channel Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/Side-Channel Attacks.png"
+    },
+    {
+      "id": 292,
+      "topic": "Hardware Reverse Engineering",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "Hardware Reverse Engineering.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/Hardware Reverse Engineering.png"
+    },
+    {
+      "id": 293,
+      "topic": "BIOS/UEFI Firmware Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "BIOS-UEFI Firmware Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/BIOS-UEFI Firmware Attacks.png"
+    },
+    {
+      "id": 294,
+      "topic": "TPM Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "TPM Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/TPM Bypass.png"
+    },
+    {
+      "id": 295,
+      "topic": "Hardware Implants",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "Hardware Implants.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/Hardware Implants.png"
+    },
+    {
+      "id": 296,
+      "topic": "RFID/NFC Cloning",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "RFID-NFC Cloning.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/RFID-NFC Cloning.png"
+    },
+    {
+      "id": 297,
+      "topic": "SDR (Software Defined Radio) Hacking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking",
+      "sanitized_filename": "SDR (Software Defined Radio) Hacking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/22. Hardware & Firmware Hacking/SDR (Software Defined Radio) Hacking.png"
+    },
+    {
+      "id": 298,
+      "topic": "Industrial Control Systems Architecture",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "Industrial Control Systems Architecture.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/Industrial Control Systems Architecture.png"
+    },
+    {
+      "id": 299,
+      "topic": "SCADA, DCS, PLC Basics",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "SCADA, DCS, PLC Basics.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/SCADA, DCS, PLC Basics.png"
+    },
+    {
+      "id": 300,
+      "topic": "Modbus, DNP3, OPC Protocols",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "Modbus, DNP3, OPC Protocols.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/Modbus, DNP3, OPC Protocols.png"
+    },
+    {
+      "id": 301,
+      "topic": "OT Network Segmentation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "OT Network Segmentation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/OT Network Segmentation.png"
+    },
+    {
+      "id": 302,
+      "topic": "Stuxnet-style Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "Stuxnet-style Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/Stuxnet-style Attacks.png"
+    },
+    {
+      "id": 303,
+      "topic": "Safety System Bypass",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "Safety System Bypass.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/Safety System Bypass.png"
+    },
+    {
+      "id": 304,
+      "topic": "Physical Process Manipulation",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming",
+      "sanitized_filename": "Physical Process Manipulation.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/23. ICS-OT-SCADA Red Teaming/Physical Process Manipulation.png"
+    },
+    {
+      "id": 305,
+      "topic": "Adversarial Machine Learning",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Adversarial Machine Learning.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Adversarial Machine Learning.png"
+    },
+    {
+      "id": 306,
+      "topic": "Model Inversion Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Model Inversion Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Model Inversion Attacks.png"
+    },
+    {
+      "id": 307,
+      "topic": "Data Poisoning",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Data Poisoning.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Data Poisoning.png"
+    },
+    {
+      "id": 308,
+      "topic": "Prompt Injection (LLM Attacks)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Prompt Injection (LLM Attacks).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Prompt Injection (LLM Attacks).png"
+    },
+    {
+      "id": 309,
+      "topic": "Model Extraction",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Model Extraction.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Model Extraction.png"
+    },
+    {
+      "id": 310,
+      "topic": "Membership Inference",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Membership Inference.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Membership Inference.png"
+    },
+    {
+      "id": 311,
+      "topic": "AI Supply Chain Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "AI Supply Chain Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/AI Supply Chain Attacks.png"
+    },
+    {
+      "id": 312,
+      "topic": "LLM Jailbreaking",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "LLM Jailbreaking.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/LLM Jailbreaking.png"
+    },
+    {
+      "id": 313,
+      "topic": "Multi-modal Model Attacks",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming",
+      "sanitized_filename": "Multi-modal Model Attacks.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/24. AI-ML Red Teaming/Multi-modal Model Attacks.png"
+    },
+    {
+      "id": 314,
+      "topic": "Attribution Evasion",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Foundations",
+      "sanitized_filename": "Attribution Evasion.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Foundations/Attribution Evasion.png"
+    },
+    {
+      "id": 315,
+      "topic": "False Flag Operations",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Foundations",
+      "sanitized_filename": "False Flag Operations.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Foundations/False Flag Operations.png"
+    },
+    {
+      "id": 316,
+      "topic": "Bulletproof Hosting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup",
+      "sanitized_filename": "Bulletproof Hosting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup/Bulletproof Hosting.png"
+    },
+    {
+      "id": 317,
+      "topic": "Anonymous Infrastructure",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup",
+      "sanitized_filename": "Anonymous Infrastructure.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup/Anonymous Infrastructure.png"
+    },
+    {
+      "id": 318,
+      "topic": "Domain Aging",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup",
+      "sanitized_filename": "Domain Aging.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup/Domain Aging.png"
+    },
+    {
+      "id": 319,
+      "topic": "SSL Certificate Management",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup",
+      "sanitized_filename": "SSL Certificate Management.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Infrastructure Setup/SSL Certificate Management.png"
+    },
+    {
+      "id": 320,
+      "topic": "Counter-Forensics",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security",
+      "sanitized_filename": "Counter-Forensics.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security/Counter-Forensics.png"
+    },
+    {
+      "id": 321,
+      "topic": "Anti-Detection Engineering",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security",
+      "sanitized_filename": "Anti-Detection Engineering.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security/Anti-Detection Engineering.png"
+    },
+    {
+      "id": 322,
+      "topic": "Custom Tool Development",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security",
+      "sanitized_filename": "Custom Tool Development.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security/Custom Tool Development.png"
+    },
+    {
+      "id": 323,
+      "topic": "Steganography & Covert Channels",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security",
+      "sanitized_filename": "Steganography & Covert Channels.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/25. Advanced Tradecraft & OPSEC/Operational Security/Steganography & Covert Channels.png"
+    },
+    {
+      "id": 324,
+      "topic": "Detection Engineering",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Detection Engineering.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Detection Engineering.png"
+    },
+    {
+      "id": 325,
+      "topic": "SIEM Rule Development",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "SIEM Rule Development.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/SIEM Rule Development.png"
+    },
+    {
+      "id": 326,
+      "topic": "Sigma Rules",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Sigma Rules.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Sigma Rules.png"
+    },
+    {
+      "id": 327,
+      "topic": "YARA Rules",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "YARA Rules.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/YARA Rules.png"
+    },
+    {
+      "id": 328,
+      "topic": "Threat Hunting",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Threat Hunting.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Threat Hunting.png"
+    },
+    {
+      "id": 329,
+      "topic": "Deception Technology (Honeypots, Honeytokens)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Deception Technology (Honeypots, Honeytokens).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Deception Technology (Honeypots, Honeytokens).png"
+    },
+    {
+      "id": 330,
+      "topic": "Attack-Defense Synchronization",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Attack-Defense Synchronization.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Attack-Defense Synchronization.png"
+    },
+    {
+      "id": 331,
+      "topic": "Metrics & Measurement",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming",
+      "sanitized_filename": "Metrics & Measurement.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/26. Purple Teaming/Metrics & Measurement.png"
+    },
+    {
+      "id": 332,
+      "topic": "Vulnerability Research Methodology",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Vulnerability Research Methodology.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Vulnerability Research Methodology.png"
+    },
+    {
+      "id": 333,
+      "topic": "Fuzzing (AFL, libFuzzer, WinAFL)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Fuzzing (AFL, libFuzzer, WinAFL).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Fuzzing (AFL, libFuzzer, WinAFL).png"
+    },
+    {
+      "id": 334,
+      "topic": "Static Analysis (CodeQL, Semgrep)",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Static Analysis (CodeQL, Semgrep).png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Static Analysis (CodeQL, Semgrep).png"
+    },
+    {
+      "id": 335,
+      "topic": "Dynamic Analysis",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Dynamic Analysis.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Dynamic Analysis.png"
+    },
+    {
+      "id": 336,
+      "topic": "Responsible Disclosure",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Responsible Disclosure.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Responsible Disclosure.png"
+    },
+    {
+      "id": 337,
+      "topic": "Bug Bounty Methodology",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Bug Bounty Methodology.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Bug Bounty Methodology.png"
+    },
+    {
+      "id": 338,
+      "topic": "Exploit Mitigation Research",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Exploit Mitigation Research.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Exploit Mitigation Research.png"
+    },
+    {
+      "id": 339,
+      "topic": "Novel Attack Vector Discovery",
+      "folder": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day",
+      "sanitized_filename": "Novel Attack Vector Discovery.png",
+      "sanitized_path": "/home/user/Penetration_testing_cookbook/\ud83d\udcda PHASE 5: ULTRA EXPERT LEVEL (3+ Years)/27. Research & Zero-Day/Novel Attack Vector Discovery.png"
+    }
+  ]
+}
